@@ -11,5 +11,3 @@
 * Λίστα με JavaScript αρχεία που χρησιμοποιούνται (<script src=’xxx.js’>)
 
 * Λίστα με css αρχεία που χρησιμοποιούνται (rel="stylesheet" type="text/css" href="xxx.css")
-
-* Other community or team contact
